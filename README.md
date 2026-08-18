@@ -34,8 +34,8 @@ Dataset references:
 
 ## C. Project links
 
-- **GitHub Repository Link:** ``
-- **Live Streamlit App Link:** ``
+- **GitHub Repository Link:**  https://github.com/slyezil/ML_Assignment_2_2025ac05169.git
+- **Live Streamlit App Link:** https://mlassignment22025ac05169-op2cm6kdcxsm5tjwjo5ntx.streamlit.app/
 
 
 ## D. Models used and evaluation results
